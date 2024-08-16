@@ -18,7 +18,7 @@
 •	This is a Secondary Dataset.
 
 ## Data Cleaning Process
-1.	1.	Check the data types: Are the features identified with correct data types?
+1.	Check the data types: Are the features identified with correct data types?
 2.	Check the null values.
 3.	Remove the columns that are not necessary in this analysis project.  
     - Remove Customer First and Last Name
@@ -183,7 +183,19 @@ Chart Title	|Flight Status by Airport (Airport Performance)|
 
 ## Dashboard Mockup
 
-<img> </img>
+<img src="./images/1. airline analysis dashboard sketch_img.png" alt="Airline Analysis Dashboard Sketch" />
+
+## Final Report
+Note: Some data are irrelevant to construct the analysis, therefore the final report is a little bit different.  
+
+<img src="./images/2. airlie analysis final dashboard (kyi).jpg" alt="Airline Analysis Final Dashboard" />
+
+## References
+- https://github.com/shwezin-coder/Analysis-Project-Planning-Template
+- Search Vizzes | Tableau Public
+- https://public.tableau.com/app/profile/andy.kriebel/viz/AirlineDelays_2/AirlineDelays
+- https://public.tableau.com/app/profile/madhu.samudrala/viz/Airline_14/AirlineDelaySummary
+
 
 
 
